@@ -1,0 +1,64 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Send+Flowers&display=swap');
+
+body {
+    background-color: rgba(87, 185, 87, 0.795);
+    color:rgb(155, 114, 0);
+    font-size: 20px;
+}
+
+.pealkiri{
+    border: 2px solid black;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Send Flowers', cursive;
+}
+
+.pilt{
+    width: 591px;
+}
+.Ingredients{
+    border: 2px solid black;
+    width: 25%;
+    margin: 0 auto;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.ingredients-table{
+    border: 2px solid black;
+    margin: 0 auto;
+    
+}
+
+.instructions{
+    border: 2px solid black;
+    width: 25%;
+    margin: 0 auto;
+}
+
+.instructions ol{
+    margin: 0 auto;
+    width: 75%;
+    border: 1px solid black;
+}
+
+.link{
+background-color: #f44336;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  align-items: center;
+
+  border: 2px solid black;
+  width: 50px;
+  position: absolute;
+}
+
+.footer{
+    text-align: center;
+    font-family: 'Chakra Petch', sans-serif;
+        font-size: 2rem;
+}
